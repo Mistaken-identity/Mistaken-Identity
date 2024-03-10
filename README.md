@@ -1,4 +1,6 @@
-### Hi there 👋
+### Web developer 
+Machine learning 
+Learning Software engineering 
 
 <!--
 **Mistaken-identity/Mistaken-Identity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
