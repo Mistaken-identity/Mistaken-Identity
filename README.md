@@ -20,6 +20,6 @@ I'm a web development enthusiast building skills in HTML, CSS, JavaScript, and R
 # 📫 How to reach me:
 - Email: antonyteflon10@gmail.com
 - LinkedIn: www.linkedin.com/in/antony-emongoluk-66802b2b0
-- Portfolio: heyiambatman.netlify.app
+- Portfolio: https://mistaken-identity.github.io/MyPortfolio/
 
 ---
