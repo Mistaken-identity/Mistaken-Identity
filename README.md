@@ -1,17 +1,21 @@
 ### Software engineering 
 I'm currently learning ML and AI 
+# Hi there 👋, I'm Teflon
+I'm a web development enthusiast building skills in **HTML**, **CSS**, **JavaScript**, and **React**.
 
-<!--
-**Mistaken-identity/Mistaken-Identity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech I'm Working With:
+- Frontend: HTML, CSS, JavaScript, React
+- Tools: Git, GitHub, VS Code
+- 
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning:
+- React fundamentals
+- Responsive design
+- Backend with Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- Email: antonyteflon10@gmail.com
+- LinkedIn: www.linkedin.com/in/antony-emongoluk-66802b2b0
+- Portfolio: heyiambatman.netlify.app
+
+---
