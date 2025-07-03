@@ -6,6 +6,7 @@ I'm a web development enthusiast building skills in HTML, CSS, JavaScript, and R
 - 💻 HTML, CSS, JavaScript
 - ⚛️ React
 - 🌐 Git & GitHub and VS Code
+- Python
 
 # 🔭 Projects I'm Working On
 - ⚛️ React portfolio website with animated sections and dark mode
