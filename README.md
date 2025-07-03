@@ -1,13 +1,16 @@
-## Software engineering 
-I'm currently learning ML and AI 
 
 # Hello Mate 👋, I'm Antony
 I'm a web development enthusiast building skills in HTML, CSS, JavaScript, and React.
 
-# 🔧 Tech I'm Working With:
-- Frontend: HTML, CSS, JavaScript, React
-- Tools: Git, GitHub, VS Code
-- 
+# 🛠️ Tech Stack
+- 💻 HTML, CSS, JavaScript
+- ⚛️ React
+- 🌐 Git & GitHub and VS Code
+
+# 🔭 Projects I'm Working On
+- A responsive portfolio site
+- A JavaScript to-do list app
+- A basic weather app using APIs
 
 # 🌱 Currently Learning:
 - React fundamentals
