@@ -3,4 +3,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-orange?logo=ubuntu)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-black?logo=gnu-bash)
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5) ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI_Automation-black?logo=openai) ![Productivity](https://img.shields.io/badge/Productivity-Tools-blue) ![Tech_Solutions](https://img.shields.io/badge/Teflabs-Tech_Solutions-red)
